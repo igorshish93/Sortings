@@ -1,0 +1,6 @@
+c:\users\игорь\documents\visual studio 2015\Projects\Sortings\Sortings\bin\Debug\Sortings.exe.config
+c:\Users\Игорь\Documents\Visual Studio 2015\Projects\Sortings\Sortings\bin\Debug\Sortings.exe
+c:\Users\Игорь\Documents\Visual Studio 2015\Projects\Sortings\Sortings\bin\Debug\Sortings.pdb
+c:\Users\Игорь\Documents\Visual Studio 2015\Projects\Sortings\Sortings\obj\Debug\Sortings.csprojResolveAssemblyReference.cache
+c:\Users\Игорь\Documents\Visual Studio 2015\Projects\Sortings\Sortings\obj\Debug\Sortings.exe
+c:\Users\Игорь\Documents\Visual Studio 2015\Projects\Sortings\Sortings\obj\Debug\Sortings.pdb
